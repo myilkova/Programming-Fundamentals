@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparation_2_temp", "ExamPreparation_2_temp\ExamPreparation_2_temp.csproj", "{976A77BF-91F5-4FF2-BCA2-66A74321880C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_EP-1_Pokemon Don’t Go", "02_EP-1_Pokemon Don’t Go\02_EP-1_Pokemon Don’t Go.csproj", "{5366AF14-B627-4DEF-9E16-D12A7B66C956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976A77BF-91F5-4FF2-BCA2-66A74321880C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976A77BF-91F5-4FF2-BCA2-66A74321880C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976A77BF-91F5-4FF2-BCA2-66A74321880C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976A77BF-91F5-4FF2-BCA2-66A74321880C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5366AF14-B627-4DEF-9E16-D12A7B66C956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5366AF14-B627-4DEF-9E16-D12A7B66C956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5366AF14-B627-4DEF-9E16-D12A7B66C956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5366AF14-B627-4DEF-9E16-D12A7B66C956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5648AF20-F09E-4471-9DF6-34497F7B1203}
+	EndGlobalSection
+EndGlobal
